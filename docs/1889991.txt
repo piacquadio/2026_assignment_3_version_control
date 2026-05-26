@@ -13,3 +13,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- CHANGED: Fixed high-severity 'XXXXXXX' bug in `data/1889991.txt` (#2)
