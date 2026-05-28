@@ -16,5 +16,5 @@
 
 ### Changed
 
-- CHANGED: Fixed high-severity 'XXXXXXX' bug in `data/1889991.txt` (#2)
-- CHANGED: Fixed low-severity UPPERCASE bug in `data/1889991.txt` (#3)
+- CHANGED: Fixed high-severity 'XXXXXXX' bug in `data/1889991.txt` ([#2](https://github.com/davmlaw/2026_assignment_3_version_control/issues/2))
+- CHANGED: Fixed low-severity UPPERCASE bug in `data/1889991.txt` ([#3](https://github.com/davmlaw/2026_assignment_3_version_control/issues/3))
